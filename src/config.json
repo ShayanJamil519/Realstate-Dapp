@@ -1,0 +1,18 @@
+{
+  "5": {
+    "realEstate": {
+      "address": "0x8C46172a1a4B5155d98a1fC7bfD4a92aDDb8bEfD"
+    },
+    "escrow": {
+      "address": "0xCFDcbF39A16d0872aF455a8ACD14Ec3436d89525"
+    }
+  },
+  "31337": {
+    "realEstate": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "escrow": {
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+    }
+  }
+}
